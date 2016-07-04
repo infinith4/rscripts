@@ -1,0 +1,8 @@
+*~
+.config*
+*.mp3
+*.webm
+*.mp4
+*.log
+\#*#
+/logmon/
